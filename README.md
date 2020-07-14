@@ -1,2 +1,4 @@
 # imdp_movies
-by using this project we use django framework we can add moies in the list by using imdp movie links we can delete them when we can and we can download movie data in the file type of csv
+in this this project we are using django restframework.
+we use urlib and requests lib in this project. We can add movies by using the movie link.
+we can delete it or we can download the movie data in file type of csv
